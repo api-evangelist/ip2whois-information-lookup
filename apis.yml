@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.ip2whois.com/
 common:
+  - type: DomainSecurity
+    url: security/ip2whois-information-lookup-domain-security.yml
   - type: Website
     url: https://www.ip2whois.com/
   - type: PublicAPIsListing
