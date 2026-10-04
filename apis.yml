@@ -39,7 +39,6 @@ apis:
   - name: IP2WHOIS Information Lookup
     description: "WHOIS domain name lookup"
     humanURL: https://www.ip2whois.com/
-    baseURL: https://www.ip2whois.com/
     tags:
       - Development
     properties:
